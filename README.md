@@ -21,6 +21,7 @@
         <li>CV-controllable for all key parameters.</li>
         <li>Right-click menu for adjusting the saturation algorithm, interpolation algorithm, and spread behavior for pitch and filter.</li>
       </ul>
+      <p>For further instructions take a look at the luggez_alae_manual.pdf</p>
     </td>
   </tr>
 </table>
